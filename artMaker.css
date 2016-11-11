@@ -1,4 +1,4 @@
-.square{
+.box{
   width: 40%;
   padding-bottom: 20%;
   float:left;
@@ -11,10 +11,25 @@
   margin: 0 auto;
 }
 
+#container2{
+  max-width: 200px;
+  margin: 0 auto;
+}
+
 #red{
   background-color: red;
 }
 
 #blue{
+  background-color: blue;
+}
+
+////////////
+
+.red{
+  background-color: red;
+}
+
+.blue{
   background-color: blue;
 }
